@@ -1,3 +1,9 @@
+#### ⭐ star the repo if you like it
+
+<div align="center">
+  <img src="https://github.com/kanugurajesh/Simple-Life-Portfolio/assets/120458029/736cf3e4-4cd4-4279-8db2-ebeee4af1467" alt="life" width=150 height=150>
+</div>
+
 # Simple Life Portfolio
 
 Welcome to the Simple Life Portfolio blog, where we explore the beauty of minimalism in a person's life and how it can lead to a more fulfilling and intentional existence.
